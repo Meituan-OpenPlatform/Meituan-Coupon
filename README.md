@@ -15,20 +15,6 @@
 
 ## 🚀 快速开始
 
-### 安装
-
-将本仓库克隆到你的 Skill 目录：
-
-```bash
-# macOS / Linux
-git clone https://github.com/<your-org>/meituan-coupon \
-  ~/.claude/skills/meituan-coupon-get-tool
-
-# 或使用自定义 Skill 目录
-git clone https://github.com/<your-org>/meituan-coupon \
-  $CLAUDE_CONFIG_DIR/skills/meituan-coupon-get-tool
-```
-
 ### 触发词
 
 在对话框中输入以下任意关键词即可激活本 Skill：
